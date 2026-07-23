@@ -1,5 +1,5 @@
 $Format:%H$	$Format:%D$
-Fork: https://github.com/SortaCore/MMF2Exts/ (unconfirmed)
+Fork: https://github.com/Dplayer3/MMF2Exts/
 
 To keep this file edited without Git requesting you upgrade it, you can add to local-only gitignore, by appending "DarkEdif/Lib/GitArchiveCommit.md" to your ".git/info/exclude" file.
 
